@@ -4,7 +4,7 @@ Using **Mendix Modeler** to develop an integration with **Salesforce** to
 display a _Master-Detail_ click action on the same page.
 
 Let me start by stating that I am a new to **Mendix** development. I am
-not new to Rapid Development technbologies, so I  
+not new to Rapid Development technologies, so I  
 do understand the value and fundamentals of "low code" type of
 solutions.
 > ### This is a **work in progress** and I am making updates often
